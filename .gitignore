@@ -1,0 +1,8 @@
+# Unity
+[Bb]in/
+[Ll]ibrary/
+[Ll]og/
+[Tt]emp/
+.idea/
+.vscode/
+.DS_Store
